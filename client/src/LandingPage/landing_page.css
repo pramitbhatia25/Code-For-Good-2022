@@ -1,0 +1,68 @@
+body {
+  background-image: url("https://wallpaper.dog/large/20372204.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  color: white;
+}
+
+
+form {
+    outline: 5px;
+    outline-style: solid;
+    margin: 50px;
+    padding: 5%;
+    padding-top: 1%;
+    background-color: rgba(0,0,0,.8); 
+    /* Sets to 50% transparent */
+
+}
+
+#cardbody {
+    padding-top: 2em;
+    padding-bottom: 0em;
+    color: white;
+    font-size: 17px;
+    font-weight: 400;
+}
+
+#cardbody h5 {
+    font-size: 40px;
+    font-weight:bolder;
+}
+
+li {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.ctop{
+    margin-top: 8em;
+}
+
+.card-img-top {
+    margin: 20px;
+    margin-top: 50px;
+}
+
+.a {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+body {
+    position: relative;
+    min-height: 90vh;
+}
+
+.f {
+    margin: 20px;
+  }
+  
+footer {
+    position: absolute;
+    right: 0;
+    bottom:0;
+    left:0;
+}
